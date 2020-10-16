@@ -49,34 +49,3 @@ header h2 {
 .carousel {
     border: solid #5637dd;
 }
-
-/* These are for the demo.html file only, and do not apply to other pages. They should not be used for practical purposes. */
-
-.carousel-caption-alt {
-    top: 40%;
-    bottom: auto;
-}
-
-.crop-height {
-    max-height: 675px;
-    overflow: hidden;
-}
-
-img.scale {
-    display: block;
-    max-width: 100%;
-    height: auto;
-    width: auto;
-    -ms-interpolation-mode: bicubic;
-}
-
-.jumbotron-alt {
-    margin: 0;
-    padding: 30px;
-    background-image: linear-gradient(to right, #666666, #363947, #812222);
-    color: white;
-}
-
-.navbar-alt {
-    background-color: #888888;
-}
